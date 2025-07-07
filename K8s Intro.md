@@ -8,7 +8,7 @@ The need for a container orchestration tool
 - Trend from monolithic to microservices
 - Increased usage of containers
 - Demand for proper way of managing those hundreds/thousands of containers.
-# What features the container orchestration tool offer?
+# What features the K8s (container orchestration tool) offer?
 - High availability
 - Scalability or High performance
 - Disaster recovery (Backupa and Restore)
